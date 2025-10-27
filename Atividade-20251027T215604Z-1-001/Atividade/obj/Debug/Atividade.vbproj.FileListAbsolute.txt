@@ -1,0 +1,101 @@
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\bin\Debug\Atividade.xml
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.vbproj.AssemblyReference.cache
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Interop.ADODB.dll
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.vbproj.ResolveComReference.cache
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.Resources.resources
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.vbproj.GenerateResource.cache
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.vbproj.CoreCompileInputs.cache
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.exe
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.xml
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.pdb
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.exe.config
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.login.resources
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.cadastro.resources
+C:\Users\clear\OneDrive\Desktop\Atividade\Atividade\obj\Debug\Atividade.menu_principal.resources
+D:\Atividade\Atividade\obj\Debug\Atividade.vbproj.AssemblyReference.cache
+D:\Atividade\Atividade\obj\Debug\Interop.ADODB.dll
+D:\Atividade\Atividade\obj\Debug\Atividade.vbproj.ResolveComReference.cache
+D:\Atividade\Atividade\obj\Debug\Atividade.cadastro.resources
+D:\Atividade\Atividade\obj\Debug\Atividade.menu_principal.resources
+D:\Atividade\Atividade\obj\Debug\Atividade.login.resources
+D:\Atividade\Atividade\obj\Debug\Atividade.Resources.resources
+D:\Atividade\Atividade\obj\Debug\Atividade.vbproj.GenerateResource.cache
+D:\Atividade\Atividade\obj\Debug\Atividade.vbproj.CoreCompileInputs.cache
+D:\Atividade\Atividade\obj\Debug\Atividade.exe
+D:\Atividade\Atividade\obj\Debug\Atividade.xml
+D:\Atividade\Atividade\obj\Debug\Atividade.pdb
+D:\Atividade\Atividade\bin\Debug\Atividade.exe.config
+D:\Atividade\Atividade\bin\Debug\Atividade.exe
+D:\Atividade\Atividade\bin\Debug\Atividade.pdb
+D:\Atividade\Atividade\bin\Debug\Atividade.xml
+E:\Atividade\Atividade\bin\Debug\Atividade.exe.config
+E:\Atividade\Atividade\bin\Debug\Atividade.exe
+E:\Atividade\Atividade\bin\Debug\Atividade.pdb
+E:\Atividade\Atividade\bin\Debug\Atividade.xml
+E:\Atividade\Atividade\obj\Debug\Atividade.vbproj.AssemblyReference.cache
+E:\Atividade\Atividade\obj\Debug\Atividade.exe.config
+E:\Atividade\Atividade\obj\Debug\Interop.ADODB.dll
+E:\Atividade\Atividade\obj\Debug\Atividade.vbproj.ResolveComReference.cache
+E:\Atividade\Atividade\obj\Debug\Atividade.cadastro.resources
+E:\Atividade\Atividade\obj\Debug\Atividade.menu_principal.resources
+E:\Atividade\Atividade\obj\Debug\Atividade.login.resources
+E:\Atividade\Atividade\obj\Debug\Atividade.Resources.resources
+E:\Atividade\Atividade\obj\Debug\Atividade.vbproj.GenerateResource.cache
+E:\Atividade\Atividade\obj\Debug\Atividade.vbproj.CoreCompileInputs.cache
+E:\Atividade\Atividade\obj\Debug\Atividade.exe
+E:\Atividade\Atividade\obj\Debug\Atividade.xml
+E:\Atividade\Atividade\obj\Debug\Atividade.pdb
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\bin\Debug\Atividade.exe
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\bin\Debug\Atividade.pdb
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\bin\Debug\Atividade.xml
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.vbproj.AssemblyReference.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.exe.config
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Interop.ADODB.dll
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.vbproj.ResolveComReference.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.cadastro.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.menu_principal.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.login.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.Resources.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.vbproj.GenerateResource.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.vbproj.CoreCompileInputs.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.exe
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.xml
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001\Atividade\obj\Debug\Atividade.pdb
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\bin\Debug\Atividade.exe
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\bin\Debug\Atividade.pdb
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\bin\Debug\Atividade.xml
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.vbproj.AssemblyReference.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.exe.config
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Interop.ADODB.dll
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.vbproj.ResolveComReference.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.cadastro.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.menu_principal.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.login.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.Resources.resources
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.vbproj.GenerateResource.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.vbproj.CoreCompileInputs.cache
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.exe
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.xml
+C:\Users\clear\OneDrive\Desktop\Atividade-20251023T020931Z-1-001 - Copia\Atividade\obj\Debug\Atividade.pdb
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\bin\Debug\Atividade.exe
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\bin\Debug\Atividade.pdb
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\bin\Debug\Atividade.xml
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.vbproj.AssemblyReference.cache
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.exe.config
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Interop.ADODB.dll
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.vbproj.ResolveComReference.cache
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.cadastro.resources
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.menu_principal.resources
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.login.resources
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.Resources.resources
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.vbproj.GenerateResource.cache
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.vbproj.CoreCompileInputs.cache
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.exe
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.xml
+C:\Users\samsa\Downloads\muscas\Atividade-20251027T215604Z-1-001\Atividade\obj\Debug\Atividade.pdb
